@@ -12,7 +12,8 @@ Langkah-langkah yang lebih rinci dapat anda temukan setelah segmen ini. Jika ter
 # Registrasi Akun
 Konsol ANTARES terdapat pada link berikut. Jika anda telah memiliki akun ANTARES, silahkan langsung login ke konsol. Jika belum, anda perlu melakukan registrasi agar dapat menggunakan layanan ANTARES. Ingin melakukan registrasi? silahkan kunjungi link berikut atau dengan klik tombol Register di halaman konsol. 
 
-![image](./gambar/register1.PNG)  
+<img width="1280" alt="register1" src="https://user-images.githubusercontent.com/60457179/73623258-ef199700-466e-11ea-9f67-250828fc9fea.png">
+ 
 Gambar 1. Antarmuka Halaman Login
 ![image](./gambar/register2.PNG)
 Gambar 2. Antarmuka Halaman Registrasi
